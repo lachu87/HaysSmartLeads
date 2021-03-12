@@ -1,6 +1,0 @@
-pl/prokodzik/hays/CarsStructured.java
- pl.prokodzik.hays.CarsStructured
-pl/prokodzik/hays/DataStructurizer.java
- pl.prokodzik.hays.DataStructurizer
-pl/prokodzik/hays/Main.java
- pl.prokodzik.hays.Main

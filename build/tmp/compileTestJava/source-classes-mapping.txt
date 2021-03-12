@@ -1,2 +1,0 @@
-pl/prokodzik/hays/DataStructurizerTest.java
- pl.prokodzik.hays.DataStructurizerTest
